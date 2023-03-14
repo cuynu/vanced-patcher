@@ -1,3 +1,3 @@
-## ⚠️ Still in WIP !
-**We are working alone without contributor, so its can take a longer time!**
+# Contributor / Pull requests
 
+All of contribution or any pull request are will be reject at this time
